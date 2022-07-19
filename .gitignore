@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/TestAspNetCoreGitHub/.vs/TestAspNetCoreGitHub
+/TestAspNetCoreGitHub/TestAspNetCoreGitHub/bin/Debug/net5.0
+/TestAspNetCoreGitHub/TestAspNetCoreGitHub/obj
